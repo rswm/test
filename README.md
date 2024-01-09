@@ -2,6 +2,8 @@ This is my awesome project
 
 How to run:
 
-install python
+Install python
 Run python3 script.py
 
+
+It will run the multiply function
